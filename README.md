@@ -3,6 +3,7 @@
 ## Repository Outline
 
 ```
+credit-card-transactions-analysis
 |
 ├─ dataset.csv                          # Original dataset from Kaggle
 ├─ notebook.ipynb                       # Notebook of exploratory data analysis using python
