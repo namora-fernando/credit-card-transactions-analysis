@@ -1,0 +1,6 @@
+# EDA libraries
+pandas
+numpy
+scipy
+matplotlib
+seaborn
