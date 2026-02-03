@@ -8,7 +8,7 @@ credit-card-transactions-analysis
 ├─ dataset.csv                          # Original dataset from Kaggle
 ├─ notebook.ipynb                       # Notebook of exploratory data analysis using python
 ├─ README.md                            # Project overview explanation
-├─ requirements.txt                     # Python dependencies
+└─ requirements.txt                     # Python dependencies
 ```
 
 ## Problem Background
